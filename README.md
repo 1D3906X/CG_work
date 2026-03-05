@@ -1,6 +1,11 @@
-# CG_work0
+<div align="center">
+  <h2><i>CG_work0</i></h2> 
+</div>
+
+<div align="center">
 第一次计算机图形学作业
 图形学实验报告：项目架构、代码逻辑及实现功能介绍
+</div>
 
 **一、项目架构**
 
