@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><i>CG_work0</i></h2> 
+  <h2><i>CG_work0:万有引力</i></h2> 
 </div>
 
 <div align="center">
