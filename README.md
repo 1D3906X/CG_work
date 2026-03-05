@@ -11,12 +11,19 @@ CG-Lab/
 ├── .gitignore
 
 ├── README.md
+
 ├── src/
+
 │   └── Work0/
+
 │       ├── __init__.py
+
 │       ├── config.py
+
 │       ├── physics.py
+
 │       └── main.py
+
 └── .venv/
 
 项目分为三层，分别是参数配置层（config.py）、底层计算层（physics.py）、前端视图层（main.py），各层功能独立，方便修改和维护。
