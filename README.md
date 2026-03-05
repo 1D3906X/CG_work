@@ -35,4 +35,4 @@ CG-Lab/
 3.  main.py：创建可视化窗口，调用physics.py中的计算逻辑，实现粒子渲染和GUI参数交互，完成整个仿真流程。
 
 **三、效果展示**
-![gif](.src/Work0/ezgif.com-video-to-gif-converter.gif)
+![gif](src/Work0/ezgif.com-video-to-gif-converter.gif)
