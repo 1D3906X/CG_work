@@ -36,4 +36,4 @@ CG-Lab/
 
 **三、效果展示**
 
-![gif](src/Work0/ezgif.com-video-to-gif-converter.gif)
+![gif](ezgif.com-video-to-gif-converter.gif)
