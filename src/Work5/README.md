@@ -55,6 +55,6 @@ CG-Lab/
 
 # 三、效果展示
 
-![gif](ezgif.com-video-to-gif-converter.gif)
+![png](461d3d6e693f565f8d0e161d6354f88.png)
 
 
